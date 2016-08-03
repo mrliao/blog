@@ -5,7 +5,6 @@
 系统自带的版本：java && javac 1.6.0_35
 
 操刀:
-================================================
 * 找到/etc/profile
 * 使用sudo vim /etc/profile
 若文件里面没有设置JAVA_HOME CLASSPATH,并且JAVA_HOME里面的bin路径信息没有在PATH里面设置，
@@ -17,4 +16,3 @@
  export JAVA_HOME
  export PATH
  export CLASSPATH
-========================================
