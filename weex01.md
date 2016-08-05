@@ -1,6 +1,8 @@
 ### weex 学习
+
 ### 安装
-* npm install -g weex-toolkit
+* npm install -g weex-toolkit 
+
 ### 使用
 * touch hello.we
 `<template>
