@@ -1,4 +1,4 @@
-### 插入排序 php
+###  选择排序 php
 ```php
 function select_sort($arr) {
     if (!is_array($arr) || empty($arr)) {
