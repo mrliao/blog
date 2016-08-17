@@ -1,8 +1,4 @@
 ```php
-/**
- * 单例模式
- */
-
 final class Product {
     private static $_instance;
 
