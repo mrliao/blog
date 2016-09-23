@@ -1,4 +1,4 @@
-```php
+` ` `javascript
 ;
 'use strict';
 var dduFunc = {currentPage: 1};
@@ -139,4 +139,4 @@ dduFunc.getMoreList = function(obj, appendId, fetchUrl, templateFlag, template) 
     });
 }
 ;
-```
+` ` `
