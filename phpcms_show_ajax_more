@@ -1,4 +1,5 @@
 ```javascript
+
 'use strict';
 var dduFunc = {currentPage: 1};
 dduFunc.tplConfig = {
@@ -136,6 +137,6 @@ dduFunc.getMoreList = function(obj, appendId, fetchUrl, templateFlag, template) 
             $(obj).html(' no more ');
         }
     });
-}
-;
+};
+
 ```
