@@ -1,4 +1,4 @@
-```javascript
+```php
 
 'use strict';
 var dduFunc = {currentPage: 1};
